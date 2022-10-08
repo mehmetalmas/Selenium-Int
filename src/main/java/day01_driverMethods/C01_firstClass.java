@@ -30,4 +30,8 @@ public class C01_firstClass {
            9- class'da main method olusturup yukaridaki kodlari yazin
 
              NOT : 9.satirdaki 2.parametre windows ve mac icin farklidir
+
+     */
+
+
 }
