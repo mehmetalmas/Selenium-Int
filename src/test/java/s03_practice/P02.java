@@ -1,4 +1,4 @@
-package practice;
+package s03_practice;
 
 /* ...Exercise2...
  1 - Driver olusturalim

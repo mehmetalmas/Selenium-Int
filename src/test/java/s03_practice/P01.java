@@ -1,4 +1,4 @@
-package practice;
+package s03_practice;
 
 /*...Exercise1...
     Create a new class under Q1 create main method

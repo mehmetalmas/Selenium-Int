@@ -1,4 +1,4 @@
-package sorular;
+package s02_ödevSorular;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.Keys;
