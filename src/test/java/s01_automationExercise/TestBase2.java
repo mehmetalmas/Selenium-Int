@@ -19,7 +19,7 @@ import java.time.Duration;
 
 
 
-public class A_TestCaseTestBase2 {
+public class TestBase2 {
 
     protected static WebDriver driver; // Static olarak WebDriver i olusturduk
 

@@ -1,7 +1,8 @@
 package s01_automationExercise;
 
-public class TestCase10_VerifySubscriptionInHomePage {
+public class TestCase10 {
 
+    //VerifySubscriptionInHomePage
     /*
     1. Launch browser
     2. Navigate to url 'http://automationexercise.com'

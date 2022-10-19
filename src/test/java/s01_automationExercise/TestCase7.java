@@ -1,6 +1,8 @@
 package s01_automationExercise;
 
-public class TestCase7_VerifyTestCasesPage {
+public class TestCase7 {
+
+    //VerifyTestCasesPage
     /*
     1. Launch browser
     2. Navigate to url 'http://automationexercise.com'

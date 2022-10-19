@@ -6,9 +6,11 @@ import org.junit.Test;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebElement;
 
-public class TestCase2_LoginUserWithCorrectEmailAndPassword extends A_TestCaseTestBase2 {
+public class TestCase2 extends TestBase2 {
 
     /*
+    LoginUserWithCorrectEmailAndPassword
+
     1. Launch browser
     2. Navigate to url 'http://automationexercise.com'
     3. Verify that home page is visible successfully

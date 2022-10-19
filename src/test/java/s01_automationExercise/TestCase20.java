@@ -1,6 +1,8 @@
 package s01_automationExercise;
 
-public class TestCase20_SearchProductsAndVerifyCartAfterLogin {
+public class TestCase20 {
+
+    //SearchProductsAndVerifyCartAfterLogin
     /*
     1. Launch browser
     2. Navigate to url 'http://automationexercise.com'

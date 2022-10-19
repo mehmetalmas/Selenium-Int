@@ -1,6 +1,8 @@
 package s01_automationExercise;
 
-public class TestCase25_VerifyScrollUpUsing_Arrow_ButtonAndScrollDownFunctionality {
+public class TestCase25 {
+
+    //VerifyScrollUpUsing_Arrow_ButtonAndScrollDownFunctionality
 
     /*
     1. Launch browser

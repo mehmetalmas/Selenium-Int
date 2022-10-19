@@ -1,7 +1,8 @@
 package s01_automationExercise;
 
-public class TestCase14_PlaceOrder_RegisterWhileCheckout {
+public class TestCase14 {
 
+    //PlaceOrder_RegisterWhileCheckout
     /*
     1. Launch browser
     2. Navigate to url 'http://automationexercise.com'

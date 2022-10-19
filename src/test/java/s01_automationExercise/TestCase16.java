@@ -1,6 +1,8 @@
 package s01_automationExercise;
 
-public class TestCase16_PlaceOrder_LoginBeforeCheckout {
+public class TestCase16 {
+
+    //PlaceOrder_LoginBeforeCheckout
 
     /*
     1. Launch browser

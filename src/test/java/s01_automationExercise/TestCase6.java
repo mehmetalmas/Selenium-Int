@@ -1,6 +1,8 @@
 package s01_automationExercise;
 
-public class TestCase6_ContactUsForm {
+public class TestCase6 {
+
+    //ContactUsForm
 
     /*
     1. Launch browser

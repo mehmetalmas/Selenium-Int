@@ -14,8 +14,13 @@ import org.openqa.selenium.support.ui.Select;
 
 import java.time.Duration;
 
-public class TestCase1_RegisterUser {
+public class TestCase1 {
+
+
+
     /*
+    RegisterUser
+
     1. Launch browser
     2. Navigate to url 'http://automationexercise.com'
     3. Verify that home page is visible successfully

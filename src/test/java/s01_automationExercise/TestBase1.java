@@ -16,7 +16,7 @@ import java.time.Duration;
  * Bu bileşenler sınıf, metod, değişkenler, paket ya da parametreler olabilir. Bunların hepsinde notasyonları kullanabiliriz.
  */
 
-public class A_TestCaseTestBase1 {
+public class TestBase1 {
 
     protected static WebDriver driver;  // Static olarak WebDriver i olusturduk
 

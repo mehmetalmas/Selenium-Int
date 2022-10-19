@@ -1,6 +1,8 @@
 package s01_automationExercise;
 
-public class TestCase4_LogoutUser {
+public class TestCase4 {
+
+    //LogoutUser
     /*
     1. Launch browser
     2. Navigate to url 'http://automationexercise.com'

@@ -1,6 +1,8 @@
 package s01_automationExercise;
 
-public class TestCase23_VerifyAddressDetailsInCheckoutPage {
+public class TestCase23 {
+
+    //VerifyAddressDetailsInCheckoutPage
 
     /*
     1. Launch browser

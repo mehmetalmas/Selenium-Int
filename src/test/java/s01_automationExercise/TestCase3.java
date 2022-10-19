@@ -1,6 +1,9 @@
 package s01_automationExercise;
 
-public class TestCase3_LoginUserWithIncorrectEmailAndPassword {
+public class TestCase3 {
+
+    //LoginUserWithIncorrectEmailAndPassword
+
     /*
     1. Launch browser
     2. Navigate to url 'http://automationexercise.com'

@@ -1,6 +1,8 @@
 package s01_automationExercise;
 
-public class TestCase21_AddReviewOnProduct {
+public class TestCase21 {
+
+    //AddReviewOnProduct
     /*
     1. Launch browser
     2. Navigate to url 'http://automationexercise.com'

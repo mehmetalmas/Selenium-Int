@@ -1,6 +1,8 @@
 package s01_automationExercise;
 
-public class TestCase18_ViewCategoryProducts {
+public class TestCase18 {
+
+    //ViewCategoryProducts
     /*
     1. Launch browser
     2. Navigate to url 'http://automationexercise.com'

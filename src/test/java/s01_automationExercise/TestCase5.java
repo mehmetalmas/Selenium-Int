@@ -1,6 +1,8 @@
 package s01_automationExercise;
 
-public class TestCase5_RegisterUserWithExistingEmail {
+public class TestCase5 {
+
+    //RegisterUserWithExistingEmail
     /*
     1. Launch browser
     2. Navigate to url 'http://automationexercise.com'

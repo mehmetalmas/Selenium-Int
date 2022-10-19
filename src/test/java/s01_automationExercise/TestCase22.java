@@ -1,6 +1,8 @@
 package s01_automationExercise;
 
-public class TestCase22_AddToCartFromRecommendedItems {
+public class TestCase22 {
+
+    //AddToCartFromRecommendedItems
     /*
     1. Launch browser
     2. Navigate to url 'http://automationexercise.com'

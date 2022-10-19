@@ -1,6 +1,8 @@
 package s01_automationExercise;
 
-public class TestCase24_DownloadInvoiceAfterPurchaseOrder {
+public class TestCase24 {
+
+    //DownloadInvoiceAfterPurchaseOrder
 
     /*
     1. Launch browser

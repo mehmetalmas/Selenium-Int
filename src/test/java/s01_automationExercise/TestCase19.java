@@ -1,6 +1,8 @@
 package s01_automationExercise;
 
-public class TestCase19_ViewAndCartBrandProducts {
+public class TestCase19 {
+
+    //ViewAndCartBrandProducts
     /*
     1. Launch browser
     2. Navigate to url 'http://automationexercise.com'

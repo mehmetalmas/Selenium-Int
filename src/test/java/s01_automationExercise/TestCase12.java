@@ -1,6 +1,8 @@
 package s01_automationExercise;
 
-public class TestCase12_AddProductsInCart {
+public class TestCase12 {
+
+    //AddProductsInCart
     /*
     1. Launch browser
     2. Navigate to url 'http://automationexercise.com'

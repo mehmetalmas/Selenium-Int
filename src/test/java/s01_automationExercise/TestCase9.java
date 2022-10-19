@@ -1,6 +1,8 @@
 package s01_automationExercise;
 
-public class TestCase9_SearchProduct {
+public class TestCase9 {
+
+    //SearchProduct
     /*
     1. Launch browser
     2. Navigate to url 'http://automationexercise.com'

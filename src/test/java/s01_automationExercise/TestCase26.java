@@ -1,6 +1,8 @@
 package s01_automationExercise;
 
-public class TestCase26_VerifyScrollUpWithout_Arrow_ButtonAndScrollDownFunctionality {
+public class TestCase26 {
+
+    //VerifyScrollUpWithout_Arrow_ButtonAndScrollDownFunctionality
 
     /*
     1. Launch browser

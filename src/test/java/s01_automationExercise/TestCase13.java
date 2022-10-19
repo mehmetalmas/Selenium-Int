@@ -1,6 +1,8 @@
 package s01_automationExercise;
 
-public class TestCase13_VerifyProductQuantityInCart {
+public class TestCase13 {
+
+    //VerifyProductQuantityInCart
 
     /*
     1. Launch browser
