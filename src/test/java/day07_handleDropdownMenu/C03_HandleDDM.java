@@ -1,4 +1,4 @@
-package ders07_handleDropdownMenu;
+package day07_handleDropdownMenu;
 
 import io.github.bonigarcia.wdm.WebDriverManager;
 import org.junit.After;

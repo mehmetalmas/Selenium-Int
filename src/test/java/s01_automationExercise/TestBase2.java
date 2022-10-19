@@ -8,15 +8,12 @@ import org.openqa.selenium.chrome.ChromeDriver;
 import java.time.Duration;
 @FixMethodOrder(MethodSorters.NAME_ASCENDING) // @Test notasyonlarini yazildigi siraya göre calistirir
 
-
-
 /*
  * Java dilinde Annotation(Notasyonlar), bir veri hakkında bilgi barındıran veriyi sağlayan basit bir yapıdır.
  * Bu sağladığı bilgiye de “metadata” denir.
  * Notasyonlar( Annotation) genellikle Java’da konfigürasyon amacıyla kullanılır. Ya da bir bileşene ek özellikle katar.
  * Bu bileşenler sınıf, metod, değişkenler, paket ya da parametreler olabilir. Bunların hepsinde notasyonları kullanabiliriz.
  */
-
 
 
 public class TestBase2 {
@@ -37,7 +34,6 @@ public class TestBase2 {
         driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(15));
         System.out.println(driver);
     }
-
 
     @AfterClass
     public static void tearDown(){
