@@ -1,5 +1,4 @@
 package day07_handleDropdownMenu;
-
 import io.github.bonigarcia.wdm.WebDriverManager;
 import org.junit.After;
 import org.junit.Assert;
@@ -8,9 +7,7 @@ import org.junit.Test;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
-
 import java.time.Duration;
-
 public class C04_HandleAlerts {
 
     /*
@@ -24,7 +21,6 @@ public class C04_HandleAlerts {
          switchTo( ) kullanarak allert'e gecmekl
          ve alert'un izin verdigi islevleri yapmak
      */
-
 
     /*
         ● https://the-internet.herokuapp.com/javascript_alerts adresine gidin.
@@ -93,10 +89,8 @@ public class C04_HandleAlerts {
         Assert.assertTrue(actualSonucYazisi.contains(expectedIsim));
     }
 
-
     @After
     public void teardown(){
         driver.close();
     }
-
 }

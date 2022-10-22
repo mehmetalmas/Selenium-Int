@@ -18,7 +18,7 @@ import java.time.Duration;
 
 public class TestBase2 {
 
-    protected static WebDriver driver; // Static olarak WebDriver i olusturduk
+    public static WebDriver driver; // Static olarak WebDriver i olusturduk
 
 
     // @BeforeClass notasyonu = eger test adimlarimiz birbirine bagli(irtibatli) ise testlerimizi bir den fazla @Test notasyonu altinda calistirabilir
@@ -32,7 +32,7 @@ public class TestBase2 {
         driver=new ChromeDriver();
         driver.manage().window().maximize();
         driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(15));
-        System.out.println(driver);
+
     }
 
     @AfterClass

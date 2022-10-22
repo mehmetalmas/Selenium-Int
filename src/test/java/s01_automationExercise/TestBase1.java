@@ -18,7 +18,7 @@ import java.time.Duration;
 
 public class TestBase1 {
 
-    protected static WebDriver driver;  // Static olarak WebDriver i olusturduk
+    public static WebDriver driver;  // Static olarak WebDriver i olusturduk
 
 
     // @Before notasyonu = eger test adimlarimiz birbirine bagli(irtibatli) ise testlerimizi bir tek @Test notasyonu altinda calistirir
@@ -27,15 +27,15 @@ public class TestBase1 {
     // @Before kullanarak birbirine bagli test adimlarini farkli @Test notasyonlari altinda yapmak hataya sebep olur (Farkli WebDriverler'a ihtiyac olacagindan )
 
     @Before
-    public void setup(){
+    public static void setup(){
         WebDriverManager.chromedriver().setup();
         driver=new ChromeDriver();
         driver.manage().window().maximize();
         driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(15));
-        System.out.println(driver);
+
     }
     @After
-    public void tearDown(){
+    public static void tearDown(){
         //driver.quit();
     }
 }

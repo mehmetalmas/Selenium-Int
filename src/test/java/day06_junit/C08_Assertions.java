@@ -2,7 +2,6 @@ package day06_junit;
 
 import org.junit.Assert;
 import org.junit.Test;
-
 public class C08_Assertions {
     int sayi1= 10;
     int sayi2= 20;

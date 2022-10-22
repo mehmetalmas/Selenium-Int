@@ -32,6 +32,8 @@ public class C06_RadioButtons {
         driver.manage().window().maximize();
     }
     @Test
+
+
     public void test01() throws InterruptedException {
         //https://www.facebook.com adresine gidin
         driver.get("https://www.facebook.com");

@@ -13,13 +13,11 @@ import java.time.Duration;
 
 public class C05_CheckBoxTest {
 
-
     // a. Verilen web sayfasına gidin.
     //       https://the-internet.herokuapp.com/checkboxes
     //  b. Checkbox1 ve checkbox2 elementlerini locate edin.
     //  c. Checkbox1'in secili olmadigini ve
     //     Checkbox2'nin secili oldugunu test edin
-
 
     WebDriver driver;
 
@@ -54,15 +52,10 @@ public class C05_CheckBoxTest {
         }
     }
 
-
     @After
     public void teardown(){
         driver.close();
     }
-
-
-
-
 
 
 }
